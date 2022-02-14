@@ -1,0 +1,11 @@
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.csproj.AssemblyReference.cache
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.csproj.SuggestedBindingRedirects.cache
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\_2proyect_DibujoApp.Form1.resources
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\_2proyect_DibujoApp.Properties.Resources.resources
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.csproj.GenerateResource.cache
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\bin\Debug\2proyect_DibujoApp.exe.config
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\bin\Debug\2proyect_DibujoApp.exe
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\bin\Debug\2proyect_DibujoApp.pdb
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.exe
+D:\Mis Documentos\ProyectosVisual\2proyect_DibujoApp\2proyect_DibujoApp\obj\Debug\2proyect_DibujoApp.pdb
